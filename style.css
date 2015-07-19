@@ -1,0 +1,52 @@
+h1 {
+	font-size: 32px;
+	text-align:center;
+
+}
+
+#someForm, .employee{
+background-color: #A3A375;
+display: block;
+margin-left: auto;
+margin-right:auto;
+clear: both;
+width: 1200px;
+color: #3D3D29;
+font-weight: bold;
+font-size: 22px;
+border-radius: 2%;
+border: 5px solid #3D3D29;
+}
+
+.employee {
+display: inline-block;
+width: 400px;
+
+}
+
+
+
+#someForm input{
+	display: inline;
+	clear:both;
+	margin-right: 0;
+    height:25px;
+    font-size:14pt;
+    border-radius: 2%;
+}
+
+
+button {
+	display: block;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right:auto;
+
+}
+
+
+
+
+
+
+
