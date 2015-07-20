@@ -14,18 +14,39 @@ width: 1200px;
 color: #3D3D29;
 font-weight: bold;
 font-size: 22px;
-border-radius: 2%;
 border: 5px solid #3D3D29;
 }
 
 .employee {
 display: inline-block;
-width: 400px;
-
+width: 382px;
+height:350px;
+margin: 5px 3px 3px 5px;
+padding-top:3px;
 }
 
 
+#someForm input[type='text']{
+  width: 250px;
+  height: 20px;
+  display: inline-block;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+}
 
+#someForm input[type='submit'] {    
+  float:right;
+  clear:both;
+  display: block;
+  background: #F9F9F9;
+  color: #333333;
+ 
+}
+
+/*
 #someForm input{
 	display: inline;
 	clear:both;
